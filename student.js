@@ -13,7 +13,7 @@ module.exports ={
     city:"gwalior",
     college:"itm",
     addition:function(a,b){
-        console.log("its a function",a+b);
+        console.log("its a addition",a+b);
     },
     substraction:function(a,b){
         console.log("its a substraction",a-b);
